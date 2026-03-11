@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Chetan%20Rayalu&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FFC300&height=200&section=header&text=Chetan%20Rayalu&fontSize=40&fontColor=000000)
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Chetan-Rayalu&color=yellow&style=flat-square&label=Profile+Views"/>
